@@ -1,0 +1,5 @@
+C:\Users\eric.young\Desktop\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.csprojAssemblyReference.cache
+C:\Users\eric.young\Desktop\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.RazorAssemblyInfo.cache
+C:\Users\eric.young\Desktop\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.RazorAssemblyInfo.cs
+C:\Users\eric.young\Desktop\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.AssemblyInfoInputs.cache
+C:\Users\eric.young\Desktop\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.AssemblyInfo.cs
